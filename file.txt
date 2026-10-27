@@ -1,5 +1,9 @@
 this is just for practice some commands for linux.
 This is 2nd line of file.
 This is third line of file.
+
 abcdefghijklmnopqrstuvwxyz
 table to this file 
+
+this is written inside a bufgix
+
